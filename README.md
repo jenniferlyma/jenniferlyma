@@ -1,26 +1,26 @@
 ### Olá! Sou Jénnifer👋
 
-# ESTUDANDO 
+## ESTUDANDO 
 - ReactNative
 - JS
 - MongoDB
   
-# FORMAÇÃO 
+## FORMAÇÃO 
 - Análise e Desenvolvimento de Sistemas.
 - Técnica de informática para Internet.
 
-# SKILS 
+## SKILS 
 - JAVA (Básico)
 - PHP (Básico)
 - Liguagens de marcação (HTML E CSS)
   
-# CONHECIMENTO BÁSICO
+## CONHECIMENTO BÁSICO
 - BANCO DE DADOS RELACIONAL
   phpMyAdmin
 
-# PROJETOS ATUAIS
+## PROJETOS ATUAIS
 - (Pessoal) App de calcular renda financeira em ReactNative
 
-# PROJETOS FUTUROS  
+## PROJETOS FUTUROS  
 - EM ANÁLISE
   
