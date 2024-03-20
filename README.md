@@ -9,7 +9,7 @@
 - Análise e Desenvolvimento de Sistemas.
 - Técnica de informática para Internet.
 
-## SKILS 
+## SKILLS 
 - JAVA (Básico)
 - PHP (Básico)
 - Liguagens de marcação (HTML E CSS)
