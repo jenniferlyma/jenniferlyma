@@ -1,4 +1,4 @@
-### Olá! Sou Jénnifer👋
+### Olá! Sou Jénnifer👋😊
 
 ## ESTUDANDO 
 - ReactNative
@@ -12,15 +12,22 @@
 ## SKILLS 
 - JAVA (Básico)
 - PHP (Básico)
+- Sql (Básico)
+- Pascal (Básico)
 - Liguagens de marcação (HTML E CSS)
   
 ## CONHECIMENTO BÁSICO
 - BANCO DE DADOS RELACIONAL
   phpMyAdmin
 
+## CONHECIMENTO BÁSICO
+- FIGMA (Protótipo e design)
+- GIMP
+- UX-UI (Entendimento)
+
 ## PROJETOS ATUAIS
-- (Pessoal) App dispositivo movel que calacula e registra dados em ReactNative expo
+- (Pessoal) App dispositivo movel que calacula e registra dados em ReactNative com expo
 
 ## PROJETOS FUTUROS  
-- EM ANÁLISE
+- Desenvolvimento web pagina de portifolio 
   
