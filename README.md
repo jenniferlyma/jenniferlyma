@@ -19,7 +19,7 @@
   phpMyAdmin
 
 ## PROJETOS ATUAIS
-- (Pessoal) App de calcular renda financeira em ReactNative
+- (Pessoal) App dispositivo movel que calacula e registra dados em ReactNative expo
 
 ## PROJETOS FUTUROS  
 - EM ANÁLISE
