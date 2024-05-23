@@ -23,7 +23,7 @@
 ## CONHECIMENTO BÁSICO
 - FIGMA (Protótipo e design)
 - GIMP
-- UX-UI (Entendimento)
+- UX-UI (Entendimento minino a intermediário)
 
 ## PROJETOS ATUAIS
 - (Pessoal) App dispositivo movel que calacula e registra dados em ReactNative com expo
