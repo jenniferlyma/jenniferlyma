@@ -19,8 +19,6 @@
 ## CONHECIMENTO BÁSICO
 - BANCO DE DADOS RELACIONAL
   phpMyAdmin
-
-## CONHECIMENTO BÁSICO
 - FIGMA (Protótipo e design)
 - GIMP
 - UX-UI (Entendimento minino a intermediário)
