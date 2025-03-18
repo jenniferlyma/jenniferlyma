@@ -1,16 +1,44 @@
-## Hi there 👋
+# apresentacaoprofissional
+### Olá! Sou Jénnifer👋😊
 
-<!--
-**jenniferlyma/jenniferlyma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ESTUDANDO 
+- ReactNative
+- JS
+- MongoDB
+  
+## FORMAÇÃO 
+- Análise e Desenvolvimento de Sistemas.
+- Técnica de informática para Internet.
 
-Here are some ideas to get you started:
+## SKILLS 
+- JAVA (Básico)
+- PHP (Básico)
+- Sql (Básico)
+- Pascal (Básico)
+- Linguagens de marcação (HTML E CSS)
+  
+## CONHECIMENTO BÁSICO
+- BANCO DE DADOS RELACIONAL
+  phpMyAdmin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## CONHECIMENTO BÁSICO
+- FIGMA (Protótipo e design)
+- GIMP
+- UX-UI (Entendimento minino a intermediário)
+
+## PROJETOS ATUAIS
+
+- ## APP MOBILE
+# Desenvolvido em ReactNative, Visual Code, Figma. Teste de uso expo app.
+# User Story
+- Precisando economizar tempo tive a necessidade de um app que fisese e guardasse calculo de despesas.
+Para resolver a questão de tempo a principal funcionalidade é o registro de dados adicionados com finalidades para acréscimo e remoção do mesmo sem a necessidade e suas atualização com seus respectivos resultados, economizando assim tempo.
+
+## WEB SITE PORTFOLIO
+# User Story
+
+- Com a nessecidade de ser prática em como demostrar meu conhecimento na área de TI, vi no desenvolvimento de um web site simples com informações precisa que demostrar um pouco meu conhecimento, formação, história profissional, sendo assim a estrutura do meu portfólio já demostra meu conhecimento.
+
+## PROJETOS FUTUROS  
+- APP DE ASSISTENCIA NA ÁREA DA SÁUDE
+  
