@@ -42,4 +42,3 @@ Para resolver a questão de tempo a principal funcionalidade é o registro de da
 
 ## PROJETOS FUTUROS  
 - APP DE ASSISTENCIA NA ÁREA DA SÁUDE
-  
