@@ -1,4 +1,4 @@
-### Olá! Sou Jénnifer👋😊
+### Olá! Sou a Jénnifer👋😊
 
 ## ESTUDANDO 
 - ReactNative
@@ -32,16 +32,16 @@
 Para resolver a questão de tempo a principal funcionalidade é o registro de dados adicionados com finalidades para acréscimo e remoção do mesmo sem a necessidade e suas atualização com seus respectivos resultados, economizando assim tempo.
 
 ## PROTÓTIPO 🤖 
-# WEB
-# MOBILE
+## WEB
+## MOBILE
 
 
 ## WEB SITE PORTFOLIO
 # User Story
 - Com a nessecidade de ser prática em como demostrar meu conhecimento na área de TI, vi no desenvolvimento de um web site simples com informações precisa que demostrar um pouco meu conhecimento, formação, história profissional, sendo assim a estrutura do meu portfólio já demostra meu conhecimento.
 - ## PROTÓTIPO 🤖 
-# WEB
-# MOBILE
+## WEB
+## MOBILE
 
 ## PROJETOS FUTUROS  
 - APP DE ASSISTENCIA NA ÁREA DA SÁUDE
