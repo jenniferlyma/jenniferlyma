@@ -39,7 +39,7 @@ Para resolver a questão de tempo a principal funcionalidade é o registro de da
 ## WEB SITE PORTFOLIO
 # User Story
 - Com a nessecidade de ser prática em como demostrar meu conhecimento na área de TI, vi no desenvolvimento de um web site simples com informações precisa que demostrar um pouco meu conhecimento, formação, história profissional, sendo assim a estrutura do meu portfólio já demostra meu conhecimento.
-- ## PROTÓTIPO 🤖 
+## PROTÓTIPO 🤖 
 ## WEB
 ## MOBILE
 
