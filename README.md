@@ -16,7 +16,7 @@
 - Pascal (Básico)
 - Linguagens de marcação (HTML E CSS)
   
-## CONHECIMENTO BÁSICO
+### CONHECIMENTO BÁSICO
 - BANCO DE DADOS RELACIONAL
   phpMyAdmin
 - FIGMA (Protótipo e design)
