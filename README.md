@@ -6,16 +6,29 @@ Técnica de informática para Internet, sou apaixonada por tecnologia  e inovaç
 
 ## LINGUAGENS E TECNOLOGIAS
 
-  - JAVA  
-  - PHP 
-  - Sql 
-  - Pascal 
-  - Linguagens de marcação (HTML E CSS)
-  - BANCO DE DADOS RELACIONAL
-  - phpMyAdmin
-  - FIGMA (Protótipo e design)
-  - GIMP
-  - UX-UI (Básico)
+  <style>
+    .steleimage{
+      width:40px;
+      height:40px;
+    }
+  </style>
+  <img class="steleimage" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+  />
+  <img class="steleimage"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img class="steleimage" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img  class="steleimage" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img  class="steleimage" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img class="steleimage" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img class="steleimage" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original-wordmark.svg" />
+  <img class="steleimage" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img class="steleimage" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img  class="steleimage" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+  <img class="steleimage" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img class="steleimage"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img class="steleimage"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" />
+
+
+
 
 ## ESTUDANDO 
 - ReactNative
@@ -24,23 +37,22 @@ Técnica de informática para Internet, sou apaixonada por tecnologia  e inovaç
 
 ## PROJETOS ATUAIS
 
-## APP MOBILE
+### APP MOBILE
 ### Desenvolvido em ReactNative, Visual Code, Figma. Teste de uso expo app.
 ### User Story
 Precisando economizar tempo tive a necessidade de um app que fisese e guardasse calculo de despesas.
 Para resolver a questão de tempo a principal funcionalidade é o registro de dados adicionados com finalidades para acréscimo e remoção do mesmo sem a necessidade e suas atualização com seus respectivos resultados, economizando assim tempo.
 
-## PROTÓTIPO 🤖 
-## WEB
-## MOBILE
+### PROTÓTIPO 🤖 
+### WEB    MOBILE
+
+### WEB SITE PORTFOLIO
 
 
-## WEB SITE PORTFOLIO
 ### User Story
 Com a nessecidade de ser prática em como demostrar meu conhecimento na área de TI, vi no desenvolvimento de um web site simples com informações precisa que demostrar um pouco meu conhecimento, formação, história profissional, sendo assim a estrutura do meu portfólio já demostra meu conhecimento.
-## PROTÓTIPO 🤖 
-## WEB
-## MOBILE
+### PROTÓTIPO 🤖 
+### WEB   MOBILE
 
-## PROJETOS FUTUROS  
+# PROJETOS FUTUROS  
 - APP DE ASSISTENCIA NA ÁREA DA SÁUDE
