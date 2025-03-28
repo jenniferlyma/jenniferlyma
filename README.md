@@ -12,6 +12,7 @@ Técnica de informática para Internet, sou apaixonada por tecnologia  e inovaç
       height:40px;
     }
   </style>
+  <p>
   <img class="steleimage" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
   />
   <img class="steleimage"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -26,14 +27,10 @@ Técnica de informática para Internet, sou apaixonada por tecnologia  e inovaç
   <img class="steleimage" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img class="steleimage"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img class="steleimage"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" />
+  <img class="steleimage" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
+  </p>
 
 
-
-
-## ESTUDANDO 
-- ReactNative
-- JS
-- MongoDB
 
 ## PROJETOS ATUAIS
 
