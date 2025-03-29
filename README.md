@@ -40,9 +40,9 @@ Com a nessecidade de ser prática em como demostrar meu conhecimento na área de
 
 ### PROTÓTIPO 🤖 
 
-### [WEB](https://www.figma.com/proto/2O5xTP7blbCYmEjqT9On04/WEBSITE?node-id=5-2195&t=3Qe4GEIyLiJa8I8l-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+### [WEB🔍](https://www.figma.com/proto/2O5xTP7blbCYmEjqT9On04/WEBSITE?node-id=5-2195&t=3Qe4GEIyLiJa8I8l-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
-### [MOBILE](https://www.figma.com/proto/o0mQARnYz8aefviLQc7mDc/MOBILESITE?node-id=281-2272&t=u8bouqRY6BxzIcv6-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=281%3A2272)
+### [MOBILE🔍](https://www.figma.com/proto/o0mQARnYz8aefviLQc7mDc/MOBILESITE?node-id=281-2272&t=u8bouqRY6BxzIcv6-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=281%3A2272)
 
 # PROJETOS FUTUROS  
 - APP DE ASSISTENCIA NA ÁREA DA SÁUDE
