@@ -6,13 +6,7 @@ Técnica de informática para Internet, sou apaixonada por tecnologia  e inovaç
 
 ## LINGUAGENS E TECNOLOGIAS
 
-  <style>
-    .steleimage{
-      width:40px;
-      height:40px;
-    }
-  </style>
-  <div style="display:inline_block">
+  <div style="display:inline-block">
   <img class="steleimage" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
   />
   <img class="steleimage" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -31,6 +25,10 @@ Técnica de informática para Internet, sou apaixonada por tecnologia  e inovaç
   </div>
 
 
+## ESTUDANDO 
+- JS
+- MONGO
+- MOBILE
 
 ## PROJETOS ATUAIS
 
