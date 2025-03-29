@@ -39,8 +39,8 @@ Desenvolvido em THML , CSS E JS
 Com a nessecidade de ser prática em como demostrar meu conhecimento na área de TI, vi no desenvolvimento de um web site simples com informações precisa que demostrar um pouco meu conhecimento, formação, história profissional, sendo assim a estrutura do meu portfólio já demostra meu conhecimento.
 
 ### PROTÓTIPO 🤖 
-### WEB ![PROTÓTIPO](https://www.figma.com/proto/o0mQARnYz8aefviLQc7mDc/MOBILESITE?node-id=281-2272&p=f&t=jAN5vYQnHgFwq1YL-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=281%3A2272)  
-### WEB ![PROTÓTIPO]()   MOBILE
+### [WEB](https://www.figma.com/proto/2O5xTP7blbCYmEjqT9On04/WEBSITE?node-id=5-2195&t=3Qe4GEIyLiJa8I8l-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+### [MOBILE](https://www.figma.com/proto/o0mQARnYz8aefviLQc7mDc/MOBILESITE?node-id=281-2272&t=u8bouqRY6BxzIcv6-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=281%3A2272)
 
 # PROJETOS FUTUROS  
 - APP DE ASSISTENCIA NA ÁREA DA SÁUDE
