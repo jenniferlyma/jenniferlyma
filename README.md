@@ -36,7 +36,7 @@ Técnica de informática para Internet, sou apaixonada por tecnologia  e inovaç
 ### WEB SITE PORTFOLIO
 Desenvolvido em THML , CSS E JS
 ### User Story
-Com a nessecidade de ser prática em como demostrar meu conhecimento na área de TI, vi no desenvolvimento de um web site simples com informações precisa que demostrar um pouco meu conhecimento, formação, história profissional, sendo assim a estrutura do meu portfólio já demostra meu conhecimento
+Com a nessecidade de ser prática em como demostrar meu conhecimento na área de TI, vi no desenvolvimento de um web site simples com informações precisa que demostrar um pouco meu conhecimento, formação, história profissional, contudo a estrutura do meu portfólio demostra um pouco do meu conhecimento.
 
 ### PROTÓTIPO 🤖 
 
