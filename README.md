@@ -25,11 +25,6 @@ Técnica de informática para Internet, sou apaixonada por tecnologia  e inovaç
   </div>
 
 
-## ESTUDANDO 
-- JS
-- MONGO
-- MOBILE
-
 ## PROJETOS ATUAIS
 
 
